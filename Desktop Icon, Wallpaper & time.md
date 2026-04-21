@@ -46,7 +46,7 @@
 
 ---
 
-## 🎨 7. Change System Theme & Wallpaper
+## 🎨 Change System Theme & Wallpaper
 
 ### 🔹 Step 1: Open Personalization
 
@@ -64,11 +64,8 @@
    * Dark
    * Custom
 
-🖼️ Add Image:
+<img width="1919" height="1024" alt="image" src="https://github.com/user-attachments/assets/118d8f8b-841a-4e5d-b67c-f6d0105352ae" />
 
-```
-![Themes](images/themes.png)
-```
 
 ---
 
@@ -84,11 +81,8 @@
 
 3. Click **Browse** → Select image
 
-🖼️ Add Image:
+<img width="1919" height="1019" alt="image" src="https://github.com/user-attachments/assets/4404e703-c4e0-471d-88b5-28fe00c660bc" />
 
-```
-![Wallpaper](images/wallpaper.png)
-```
 
 ---
 
@@ -102,7 +96,7 @@
 
 ---
 
-## 🌍 8. Configure Date, Time, and Region
+## 🌍 Configure Date, Time, and Region
 
 ### 🔹 Step 1: Open Settings
 
@@ -119,11 +113,7 @@
    * Set time automatically
    * Set time zone automatically
 
-🖼️ Add Image:
-
-```
-![Date Time](images/date-time.png)
-```
+<img width="1908" height="1016" alt="image" src="https://github.com/user-attachments/assets/3ef6c7a1-9be4-4e6f-8490-20d57c657c82" />
 
 ---
 
@@ -141,10 +131,8 @@
    * Country/Region
    * Regional format
 
-🖼️ Add Image:
+<img width="1918" height="1036" alt="image" src="https://github.com/user-attachments/assets/7755f0d3-b002-488a-aabd-e3b3e66849c5" />
 
-```
-![Region](images/region.png)
 ```
 
 ---
