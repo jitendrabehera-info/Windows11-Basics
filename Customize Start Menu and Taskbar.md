@@ -9,7 +9,9 @@ This guide explains how to customize the **Start Menu and Taskbar in Windows 11*
 ## 🔹 Step 1: Open Start Menu
 
 * Press **Windows Key** or click the Start icon
-  
+
+  <img width="1110" height="971" alt="image" src="https://github.com/user-attachments/assets/b81d963b-b14d-4516-84a4-c3e8fb7dc90c" />
+
 ---
 
 ## 🔹 Step 2: Pin Apps to Start
