@@ -6,10 +6,8 @@
 2. Click **View**
 3. Select **Show desktop icons**
 
-```
-<img width="1307" height="807" alt="image" src="https://github.com/user-attachments/assets/b3bbc35f-c6c9-477a-b685-3fc8bf3e293c" />
+<img width="1307" height="807" alt="image" src="https://github.com/user-attachments/assets/d4ff7ead-0db5-4dc7-a333-0b10d9a5ac84" />
 
-```
 
 ---
 
