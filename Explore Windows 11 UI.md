@@ -1,10 +1,12 @@
 🔹 Step 1: Open the New Start Menu
 Press Windows Key or click the center icon on taskbar
-
+<img width="1919" height="1074" alt="image" src="https://github.com/user-attachments/assets/ff0db2be-657c-4f1f-b6b0-beb4656b5209" />
 
 👉 You will notice:
 Start Menu is centered
+
 No live tiles
+
 Pinned apps + Recommended section
 
 
