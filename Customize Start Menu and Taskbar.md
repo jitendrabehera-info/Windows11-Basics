@@ -19,7 +19,8 @@ This guide explains how to customize the **Start Menu and Taskbar in Windows 11*
 1. Search for any app
 2. Right-click → **Pin to Start**
 
-![Pin App](images/pin-app.png)
+<img width="942" height="650" alt="image" src="https://github.com/user-attachments/assets/6cdfef81-f31f-4697-b36b-bfec9faa9437" />
+
 
 ---
 
@@ -34,8 +35,6 @@ This guide explains how to customize the **Start Menu and Taskbar in Windows 11*
 
 * Drag and drop apps to reorder
 
-![Rearrange Apps](images/rearrange.png)
-
 ---
 
 ## 🔹 Step 5: Change Start Layout
@@ -43,7 +42,9 @@ This guide explains how to customize the **Start Menu and Taskbar in Windows 11*
 1. Press **Windows + I**
 2. Go to **Personalization → Start**
 
-![Start Settings](images/start-settings.png)
+<img width="1913" height="1079" alt="image" src="https://github.com/user-attachments/assets/3dd007f2-8027-4e83-a8b6-f444771adb02" />
+
+
 
 ### Options:
 
@@ -59,7 +60,9 @@ This guide explains how to customize the **Start Menu and Taskbar in Windows 11*
 
 * Right-click on Taskbar → **Taskbar settings**
 
-![Taskbar Settings](images/taskbar-settings.png)
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/4acd1888-93f6-49bf-9eb0-12d50eb405c7" />
+
+
 
 ---
 
@@ -67,7 +70,8 @@ This guide explains how to customize the **Start Menu and Taskbar in Windows 11*
 
 * Go to **Taskbar behaviors**
 
-![Taskbar Alignment](images/taskbar-alignment.png)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/14121342-55cd-4805-b9f6-8cd65e6a4ec4" />
+
 
 ### Choose:
 
@@ -84,24 +88,12 @@ Toggle ON/OFF:
 * Widgets
 * Task View
 
-![Taskbar Icons](images/taskbar-icons.png)
+<img width="1908" height="1029" alt="image" src="https://github.com/user-attachments/assets/8e7ee481-228f-45ad-a28a-7df39c3273ae" />
+
 
 ---
 
-## 🔹 Step 9: Pin Apps to Taskbar
-
-1. Open app
-2. Right-click → **Pin to taskbar**
-
----
-
-## 🔹 Step 10: Unpin Apps
-
-* Right-click → **Unpin from taskbar**
-
----
-
-## 🔹 Step 11: Auto Hide Taskbar
+## 🔹 Step 9: Auto Hide Taskbar
 
 1. Go to **Taskbar behaviors**
 2. Enable **Automatically hide the taskbar**
