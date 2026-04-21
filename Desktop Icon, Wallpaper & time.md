@@ -22,11 +22,8 @@
    * Recycle Bin
    * Network
 
-🖼️ Add Image Here:
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/61476e6a-3865-401d-b98e-2538345c1a81" />
 
-```
-![System Icons](images/system-icons.png)
-```
 
 ---
 
