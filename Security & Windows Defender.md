@@ -10,6 +10,7 @@
 4. Toggle **Real-time protection**
 
 
+<img width="1266" height="1017" alt="image" src="https://github.com/user-attachments/assets/9aa41de3-7e74-4876-8dcb-ff7cc6b26532" />
 
 
 ---
@@ -205,6 +206,3 @@ wf.msc
 
 
 ---
-
-👉 I can create **SECTION 6 (System Tools, CMD, Task Manager, Services, etc.) in same GitHub format**
-👉 Or convert everything into a **professional documentation repo (like real company docs)**
